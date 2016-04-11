@@ -41,5 +41,5 @@
 - [maven](https://maven.apache.org/) - Java的依赖管理.
 - [npm](https://www.npmjs.com/) - nodeJs的依赖管理.
 - [cnpm](http://npm.taobao.org/) - 淘宝的npm镜像
-- [composer]（https://getcomposer.org/） - Php的依赖管理
+- [composer](https://getcomposer.org/) - Php的依赖管理
 - [Packagist](http://pkg.phpcomposer.com/) - Composer的中国镜像
