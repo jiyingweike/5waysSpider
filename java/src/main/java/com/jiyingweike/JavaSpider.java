@@ -33,7 +33,6 @@ public class JavaSpider implements PageProcessor {
 
     public void process(Page page) {
         String urlStr = page.getUrl().toString();
-        System.out.println("urlStr:" + urlStr);
         if (urlStr.equals(XXOO_ROOT)) {
             String countStr = page.getHtml().css("span.current-comment-page", "text").toString();
             int count = Integer.parseInt(countStr.substring(1, countStr.length() - 1));
