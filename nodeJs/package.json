@@ -1,0 +1,28 @@
+{
+  "name": "jandan_node",
+  "version": "0.1.0",
+  "description": "spider for Jandan xxoo",
+  "main": "spider.js",
+  "dependencies": {
+    "simplecrawler": "0.6.2",
+    "cheerio": "0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jiyingweike/5waysSpider.git"
+  },
+  "keywords": [
+    "spider",
+    "Jandan"
+  ],
+  "author": "keepcleargas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiyingweike/5waysSpider/issues"
+  },
+  "homepage": "https://github.com/jiyingweike/5waysSpider"
+}

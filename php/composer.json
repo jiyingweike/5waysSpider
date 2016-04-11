@@ -1,0 +1,30 @@
+{
+  "name": "php-spider",
+  "description": "Php Spider For Jandan Xxoo",
+  "keywords": [
+    "Spider",
+    "Jandan"
+  ],
+  "homepage": "https://github.com/jiyingweike/5waysSpider",
+  "type": "project",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/jiyingweike/5waysSpider/issues",
+    "source": "https://github.com/jiyingweike/5waysSpider"
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0",
+    "vdb/php-spider": "^0.2.0"
+  },
+  "extra": [],
+  "config": {
+    "process-timeout": 1800
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
