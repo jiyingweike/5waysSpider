@@ -15,7 +15,7 @@
 
 ```cd nodeJs ```
 
-执行```npm install requests ```安装依赖包.
+执行```npm install ```安装依赖包.
 
 执行node命令
 
@@ -38,7 +38,7 @@
 ## Python 版本
 `cd python`  
 
-执行`pip install`安装依赖包
+执行`pip install requests`安装依赖包
 执行python命令  
 
 `python img_python.py`
