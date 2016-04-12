@@ -15,7 +15,7 @@
 
 ```cd nodeJs ```
 
-执行```npm install ```安装依赖包.
+执行```npm install requests ```安装依赖包.
 
 执行node命令
 
