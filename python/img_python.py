@@ -20,6 +20,5 @@ def getImg(html):
 #提取10页图片
 for i in range(1930,1940):
     html=getHtml("http://jandan.net/ooxx/page-"+str(i)+"#comments")
-    print getImg(html)
+    getImg(html)
 
-getImg(html)
