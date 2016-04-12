@@ -35,7 +35,13 @@
 
 即可查看输出结果.
 
+## Python 版本
+`cd python`  
 
+执行`pip install`安装依赖包
+执行python命令  
+
+`python img_python.py`
 ##一些环境的依赖
 
 - [maven](https://maven.apache.org/) - Java的依赖管理.
@@ -43,3 +49,4 @@
 - [cnpm](http://npm.taobao.org/) - 淘宝的npm镜像
 - [composer](https://getcomposer.org/) - Php的依赖管理
 - [Packagist](http://pkg.phpcomposer.com/) - Composer的中国镜像
+- [pip](https://pypi.python.org/pypi/pip/) - Python的依赖管理
